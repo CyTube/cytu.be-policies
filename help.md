@@ -17,7 +17,7 @@ is available.
 ### Email Support
 
 I also provide support via [email](mailto:cyzon@cytu.be).  I aim to respond to
-emails within 24 hours.  You can also email [nuclearace](nuclearace@cytu.be) if
+emails within 24 hours.  You can also email [nuclearace](mailto:nuclearace@cytu.be) if
 I'm not available.
 
 ### Bug Reports and Feature Requests
