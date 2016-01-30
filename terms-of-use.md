@@ -81,7 +81,7 @@ discretion of CyTube administrators.
   * Legal adult content, such as pornography, is permitted only in private
     channels (i.e., channels not listed publicly on the front page).  All users
     must be of legal age in their country to view this content.  Child
-    pornography, and sharing pornography with minors, are never permitted.
+    pornography or sharing pornography with minors is not permitted.
   * Content must not attempt to circumvent the privacy or security measures of
     any user's web browser.
   * Custom content (such as CSS and JavaScript) must not remove, obscure,
