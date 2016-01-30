@@ -18,5 +18,5 @@ Bitcoin: `1LPg2gJxGYZEjBizg9iGhu5sLSe2i2hjA7`
 
 I appreciate the continued support of past donors who have kept server costs as
 a non-issue for me to continue running the service.  If you've donated before,
-feel free to eamil me the transaction ID and I'll be happy to recognize you on
+feel free to email me the transaction ID and I'll be happy to recognize you on
 this page for donating.
