@@ -93,6 +93,10 @@ discretion of CyTube administrators.
   * Content must not intentionally or unintentionally disrupt the service as a
     whole or the experience of individual users.
   * Malicious or fraudulent content is prohibited.
+  * Advertisements are prohibited.
+  * Donation links to support channel content are allowed, but only if clearly
+    and visibly marked to inform users that the money is going to the channel
+    and not the website as a whole.
 
 ## Bot Behavior
 
