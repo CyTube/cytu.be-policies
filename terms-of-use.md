@@ -78,8 +78,8 @@ discretion of CyTube administrators.
   * All content, including but not limited to embedded audio and video, images,
     and links to external content must be legal to view and share in the State
     of Washington, USA.
-  * Legal adult content, such as pornography, is permitted only in private
-    channels (i.e., channels not listed publicly on the front page).  All users
+  * Legal adult content, such as pornography, is permitted only in channels
+    clearly marked as 18+ in the channel title All users
     must be of legal age in their country to view this content.  Child
     pornography or sharing pornography with minors is not permitted.
   * Content must not attempt to circumvent the privacy or security measures of
