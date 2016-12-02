@@ -10,7 +10,10 @@ This document may be updated at any time without prior notice.
 
 CyTube operates in Seattle, WA, USA and hence complies with the Digital Millenium
 Copyright Act with respect to copyrighted content.  **Note that CyTube does not
-host audio or video content on its servers.**
+host audio or video content on its servers.**  Video and audio content are
+hosted on third-party websites and the links to such content are provided by
+users of the website.  CyTube does not promote or endorse any video or audio
+content displayed on any channel.
 
 ### Copyright Holders
 
@@ -44,11 +47,11 @@ A history of previous DMCA notices received is avilable
 
 ### Channel Owners
 
-Upon receipt of a DMCA takedown notice for content shared on a channel, an
+Upon receipt of a DMCA takedown notice for content shared on a channel, a CyTube
 administrator will remove the infringing content from the channel and provide a
 copy of the takedown notice to the owner of the channel.  If the owner believes
-that the takedown notice is invalid or mistaken, they may contact
-cyzon@cytu.be about the procedure for filing a counter-notice.
+that the takedown notice is invalid or mistaken, they may contact cyzon@cytu.be
+about the procedure for filing a counter-notice.
 
 Channels receiving multiple DMCA takedown notices, either for the same content
 or for different content, will be suspended or banned permanently, at the
@@ -56,7 +59,7 @@ discretion of CyTube administrators.
 
 ## User Behavior
 
-  * Users must be 13 years old or older to register an account.
+  * Users must be at least 13 years old to register an account.
   * Impersonating other users, including but not limited to website staff, is
     prohibited.
   * Harassing other users is prohibited.
@@ -68,10 +71,9 @@ discretion of CyTube administrators.
     the advertisement takes place.  Blatant spamming of links to your channel in
     other channels will result in a permanent ban from the website.
   * Attempting to disrupt the service or circumvent its security is prohibited.
-    CyTube is open source; feel free to set up your own copy of the software and
-    test against that instead.
-  * All users are required to abide by the Channel Content policy when sharing
-    content in any channel.
+    Please see the [security policy](security.md) for details.
+  * All users are required to abide by the rules of the below Channel Content
+    policy when sharing content in any channel.
 
 ## Channel Content
 
@@ -79,24 +81,29 @@ discretion of CyTube administrators.
     and links to external content must be legal to view and share in the State
     of Washington, USA.
   * Legal adult content, such as pornography, is permitted only in channels
-    clearly marked as 18+ in the channel title All users
-    must be of legal age in their country to view this content.  Child
-    pornography or sharing pornography with minors is not permitted.
+    clearly marked as 18+ in the channel title, and only when all users of the
+    channel are of legal age to view such content.  Distribution of child
+    pornography is strictly prohibited and will be reported to the relevant
+    authorities.
   * Content must not attempt to circumvent the privacy or security measures of
-    any user's web browser.
+    any user's web browser.  Please see the [security policy](security.md) for
+    details.
   * Custom content (such as CSS and JavaScript) must not remove, obscure,
     modify, or otherwise interfere with any prompts or options that allow users
-    to disallow custom content (such as the channel JS accept/deny prompt or the
+    to disable custom content (such as the channel JS accept/deny prompt or the
     custom embed warning).
+  * Custom content such as CSS and JavaScript may only be used with permission
+    from the authors of such content.  Copying customizations from other
+    channels without permission is not allowed.
   * Content must comply with the corresponding terms of service for the website
     which hosts the content.
-  * Content must not intentionally or unintentionally disrupt the service as a
-    whole or the experience of individual users.
+  * Content must not disrupt the service as a whole or the experience of
+    individual users.
   * Malicious or fraudulent content is prohibited.
   * Advertisements are prohibited.
-  * Donation links to support channel content are allowed, but only if clearly
-    and visibly marked to inform users that the money is going to the channel
-    and not the website as a whole.
+  * Donation links to support individual channels are allowed, but only if
+    clearly and visibly marked to inform users that the donation is supporting
+    the channel and not the website as a whole.
 
 ## Bot Behavior
 
