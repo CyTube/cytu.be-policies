@@ -17,12 +17,10 @@ due to continual networking problems.
     Seattle with DDoS protection &mdash; $20/month
   * Application server (lax1.cytu.be) &mdash; 1GB SKVMS (RamNode) in Los Angeles
     &mdash; $9/month
-  * Application server (liberty.cytu.be) &mdash; 1GB SKVM (RamNode) in NYC with
-    DDoS protection &mdash; $12.60/month
   * Database server (internal) &mdash; 512MB SKVM (RamNode) in Seattle &mdash;
     $6.30/month
 
-**Total:** $47.90/month ($574.80/year).
+**Total:** $35.30/month
 
 I'm aiming to reduce costs in the future by replacing the webserver with a
 cheaper server and potentially scaling on demand instead of always having 3
