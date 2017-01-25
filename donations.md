@@ -2,9 +2,8 @@
 
 CyTube (https://cytu.be) is provided as a free service, with no advertisements,
 premium memberships, or sponsorship.  I develop and maintain the server as a
-hobby, and pay the bills out of pocket.  Currently CyTube's main server costs
-$20.00/month (minus donations); I expect this to increase in the future as it
-grows bigger.
+hobby, and pay the bills out of pocket.  Costs are documented on
+[the transparency page](transparency.md).
 
 I accept donations via PayPal and Bitcoin to help cover the costs of server
 hosting.  Donating is by no means a requirement, but I do appreciate your help
