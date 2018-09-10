@@ -5,24 +5,14 @@
   * I am not under any gag order prohibiting speech about subpoenas or other
     legal proceedings.
   * An index of previously received DMCA takedown notices is available at
-    http://cytu.be/dmca/.
+    https://cytu.be/dmca/.
 
 ## Costs
 
-Servers are currently hosted with [RamNode](http://ramnode.com/).  At one point,
-an application server was hosted with [BuyVM](https://buyvm.net/), but was moved
-due to continual networking problems.
+Most servers are currently hosted with [RamNode](http://ramnode.com/).  One
+VM is generously provided free of charge by Xaekai and stupid\_horse.
 
-  * Webserver / application server (cytu.be) &mdash; 2GB SVZ (RamNode) in
-    Seattle with DDoS protection &mdash; $20/month
-  * Application server (lax1.cytu.be) &mdash; 1GB SKVMS (RamNode) in Los Angeles
-    &mdash; $9/month
-  * Database server (internal) &mdash; 512MB SKVM (RamNode) in Seattle &mdash;
-    $6.30/month
+**Total Cost:** ~$25/month
 
-**Total:** $35.30/month
-
-I'm aiming to reduce costs in the future by replacing the webserver with a
-cheaper server and potentially scaling on demand instead of always having 3
-application servers.  Donations to help pay for the servers are accepted via
+Donations to help pay for the servers are accepted via
 Bitcoin and PayPal (see the footer of https://cytu.be).
