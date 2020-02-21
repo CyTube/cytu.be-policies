@@ -57,6 +57,12 @@ Channels receiving multiple DMCA takedown notices, either for the same content
 or for different content, will be suspended or banned permanently, at the
 discretion of CyTube administrators.
 
+## Use of YouTube API Services
+
+CyTube makes use of YouTube API Services in order to provide YouTube embed
+functionality.  Use of YouTube-related features is subject to the [YouTube Terms
+of Service](https://www.youtube.com/t/terms).
+
 ## User Behavior
 
   * Users must be at least 13 years old to register an account.

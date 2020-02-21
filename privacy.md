@@ -3,6 +3,12 @@
 When you visit CyTube, certain information is collected from you.  This document
 details what information is collected, how it is stored, and how it is used.
 
+## Use of YouTube API Services
+
+CyTube makes use of YouTube API Services in order to provide YouTube embed
+functionality.  Use of YouTube-related features is subject to [Google's Privacy
+Policy](http://www.google.com/policies/privacy).
+
 ## Account Registration
 
 When you register a user account on CyTube, certain information is recorded and
