@@ -21,7 +21,7 @@ If you in good faith believe that content is shared on CyTube without permission
 from the copyright holder, and this sharing is not protected by Fair Use, please
 send a properly formatted DMCA takedown notice (see [17 U.S.C. §
 512](http://www.copyright.gov/title17/92chap5.html#512)) to cyzon@cytu.be and CC
-nuclearace@cytu.be.  Please include "DMCA" in the subject line, and include the
+xaekai@cytu.be.  Please include "DMCA" in the subject line, and include the
 following information:
 
   * The link to the page where this content is shared.
