@@ -111,6 +111,10 @@ of Service](https://www.youtube.com/t/terms).
     clearly and visibly marked to inform users that the donation is supporting
     the channel and not the website as a whole.
 
+**Note:** In addition to these guidelines, please refer to the [channel takedown
+policy](channel-takedowns.md) for details about how reported content is handled.
+Please read this before complaining about your channel being unfairly banned.
+
 ## Bot Behavior
 
 Non-human users (bots) are allowed on the website, provided they comply with
