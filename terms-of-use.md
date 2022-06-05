@@ -91,6 +91,10 @@ of Service](https://www.youtube.com/t/terms).
     channel are of legal age to view such content.  Distribution of child
     pornography is strictly prohibited and will be reported to the relevant
     authorities.
+  * Sexualizing content involving minors, even if that content is otherwise
+    legal, is prohibited.  For example, channels in which users watch (legal)
+    videos of children and make sexual remarks about those children are not
+    allowed.
   * Content must not attempt to circumvent the privacy or security measures of
     any user's web browser.  Please see the [security policy](security.md) for
     details.
