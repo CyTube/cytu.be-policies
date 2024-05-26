@@ -55,8 +55,7 @@ CyTube uses cookies to store certain information in your browser:
 CyTube keeps a temporary record of any username that logs in from your IP
 address, up to a maximum of 5 names over the course of a month.  The purpose of
 this is to identify users who are sharing the same connection in case of
-moderation issues.  At any time, you may contact cyzon@cytu.be with your IP
-address to request removal of your aliases.  Aliases are visible to all channel
+moderation issues.  Refer to https://cytu.be/contact to request removal of your aliases.  Aliases are visible to all channel
 moderators upon joining a channel.
 
 ## Chat Messages
